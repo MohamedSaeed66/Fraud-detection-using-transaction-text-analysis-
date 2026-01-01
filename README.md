@@ -1,5 +1,4 @@
-# Fraud-detection-using-transaction-text-analysis-
-# Fraud Detection Using XGBoost
+ # Fraud detection using transaction-text-analysis
 
 ## 📌 Overview
 This project focuses on detecting fraudulent credit card transactions using machine learning techniques.  
